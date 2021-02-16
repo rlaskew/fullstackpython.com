@@ -1,0 +1,4 @@
+Changes for working with this repo in Cloud9
+
+# 1. change pip references to pip3 in Makefile
+# 2. remove versions from python modules in requirements.txt
