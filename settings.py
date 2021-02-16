@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-AUTHOR = u'Matt Makai'
-SITENAME = u'Full Stack Python'
+AUTHOR = u'Bart Simpson'
+SITENAME = u'Full Stack Bacon Development'
 SITEURL = 'https://www.fullstackpython.com'
 TIMEZONE = 'America/New_York'
 GITHUB_URL = 'https://github.com/mattmakai/fullstackpython.com'

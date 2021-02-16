@@ -3,3 +3,7 @@ Changes for working with this repo in Cloud9
 1. change pip references to pip3 in Makefile
     a. haven't tried --user yet
 2. remove versions from python modules in requirements.txt
+    a. dont do this yet
+3. update make run to use python3
+4. JINJA references in settings.python
+5. Author references in settings.python

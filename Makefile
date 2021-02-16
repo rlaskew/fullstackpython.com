@@ -46,7 +46,7 @@ mobi: epub
 
 
 update:
-	python update_s3.py
+	python3 update_s3.py
 	rm -rf generated/current_site
 	cp -R generated/updated_site generated/current_site
 
